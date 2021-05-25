@@ -17,7 +17,7 @@
  <br>Projects in R:
  <br><pre>[int-qnt-in-R-KostadinT](https://github.com/KostadinT/int-qnt-in-R-KostadinT)</pre>
  <br>Projects in Docker:
- <br><pre>[Docker-KostadinT](https://github.com/KostadinT/Docker-KostadinT)</pre>
+ <br><pre>[Docker small projects](https://github.com/KostadinT/Docker-KostadinT)</pre>
  <br>Projects in .NET,C#,Angular:
  <br><pre>[KTVozilo](https://github.com/KostadinT/KTVozilo)
  <br>[HSPA](https://github.com/KostadinT/HSPA)
